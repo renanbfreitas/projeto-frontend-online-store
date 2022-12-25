@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap') ;
+
+body {
+  align-items: center;
+  background: url('../image/248-2484287_e-commerce-solutions-online-shopping-isometric-hd-png.png');
+  background-position: 50% 103%;
+  background-size: 2490px;
+  box-shadow: black;
+  color: black;
+  font-family: Shadows Into Light , cursive;
+  font-size: 18px;
+  height: 0;
+  justify-content: center;
+  text-align: center;
+}
+
+.msgTelaSuperior {
+  align-items: center;
+  background-color: blue;
+  border: 2px solid rgb(5, 52, 219);
+  color: white;
+  cursor: pointer;
+  font-family: Shadows Into Light , cursive;
+  font-size: 30px;
+  margin: 0;
+  padding: 5px;
+  text-align: center;
+}
+
+.buttonCarrinhoDeCompras {
+  align-items: center;
+  background-color: green;
+  border: 2px solid rgb(5, 52, 219);
+  border-radius: 20px;
+  color: white;
+  display: center;
+  font-family: Shadows Into Light , cursive;
+  font-size: 20px;
+  font-weight: 700;
+  height: 45px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.buttonCarrinhoDeCompras2 {
+  align-items: center;
+  background-color: green;
+  border: 2px solid rgb(5, 52, 219);
+  border-radius: 20px;
+  color: white;
+  display: center;
+  font-family: Shadows Into Light , cursive;
+  font-size: 20px;
+  font-weight: 700;
+  height: 45px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.buttonMaisDetalhes {
+  align-items: center;
+  background-color: gold;
+  border: 2px solid black;
+  border-radius: 20px;
+  color: black;
+  display: center;
+  font-family: Shadows Into Light , cursive;
+  font-size: 20px;
+  font-weight: 700;
+  height: 45px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.coloqueUmaImagem {
+  align-items: center;
+  border: 1px solid black;
+  box-shadow: black;
+  font-family: Permanent Marker , cursive;
+  font-size: 15px;
+  justify-content: center;
+  text-align: center;
+  width: 220px;
+}

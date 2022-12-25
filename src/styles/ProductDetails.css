@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap') ;
+
+.buttonAddCar {
+  background-color: blue;
+  border-radius: 20px;
+  color: white;
+  font-family: Shadows Into Light , cursive;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.buttonCarBuy {
+  align-items: center;
+  background-color: green;
+  border: 2px solid rgb(5, 52, 219);
+  border-radius: 20px;
+  color: white;
+  display: center;
+  font-family: Shadows Into Light , cursive;
+  font-size: 20px;
+  font-weight: 700;
+  height: 45px;
+  margin: 10px;
+  padding: 5px;
+}
+
+.buttonAvaliar {
+  background-color: blue;
+  border-radius: 20px;
+  color: white;
+  font-family: Shadows Into Light , cursive;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.feedback {
+  align-items: center;
+  font-family: Shadows Into Light , cursive;
+  font-size: 15px;
+  height: 100px;
+  justify-content: center;
+  text-align: center;
+  width: 315px;
+}
