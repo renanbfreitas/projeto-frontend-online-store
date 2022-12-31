@@ -32,7 +32,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
 
 <img src="https://img.shields.io/static/v1?label=Link&message=FrontEnd Online Store&color=green&style=for-the-badge&logo=github"/>
 
-### <b> <a href="https://renanbfreitas.github.io/projeto-frondend-online-store/">FrontEnd Online Store</a> </b> <br>
+### <b> <a href="https://projeto-frontend-online-store.vercel.app/">FrontEnd Online Store</a> </b> <br>
 
 ---   
 
