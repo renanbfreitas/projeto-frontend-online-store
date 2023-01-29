@@ -46,6 +46,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
 
 ### <b> <a href="https://github.com/qrafaela">Rafaela Queiroz</a> </b> <br>
 
+### <b> <a href="https://github.com/renanbfreitas">Renan Freitas</a> </b> <br>
+
 </p>
 
 
